@@ -1,0 +1,127 @@
+{
+  "kind": "collectionType",
+  "collectionName": "funeral_calls",
+  "info": {
+    "singularName": "funeral-call",
+    "pluralName": "funeral-calls",
+    "displayName": "Funeral-call",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Introduction": {
+      "type": "richtext"
+    },
+    "UpsellFamilyCover": {
+      "type": "richtext"
+    },
+    "UpsellCoverAmount": {
+      "type": "richtext"
+    },
+    "Benefits": {
+      "type": "richtext"
+    },
+    "RegulatoryStatements": {
+      "type": "richtext"
+    },
+    "IdAndVerification": {
+      "type": "richtext"
+    },
+    "ConsentToProcessInfo": {
+      "type": "richtext"
+    },
+    "ExplainMainMember": {
+      "type": "richtext"
+    },
+    "ExplainSpouse": {
+      "type": "richtext"
+    },
+    "ExplainChildren": {
+      "type": "richtext"
+    },
+    "ExplainExtendedFamily": {
+      "type": "richtext"
+    },
+    "BankingDetails": {
+      "type": "richtext"
+    },
+    "WaitingPeriod": {
+      "type": "richtext"
+    },
+    "WaitingPeriodModal": {
+      "type": "richtext"
+    },
+    "FailureToPay": {
+      "type": "richtext"
+    },
+    "CoolingOffPeriod": {
+      "type": "richtext"
+    },
+    "CoolingOffPeriodMore": {
+      "type": "richtext"
+    },
+    "DebiCheck": {
+      "type": "richtext"
+    },
+    "DebiCheckTips": {
+      "type": "richtext"
+    },
+    "Notification": {
+      "type": "richtext"
+    },
+    "Disclaimer": {
+      "type": "richtext"
+    },
+    "FraudAlert": {
+      "type": "richtext"
+    },
+    "Survey": {
+      "type": "richtext"
+    },
+    "ObjectionModal1": {
+      "type": "text"
+    },
+    "ObjectionModal2": {
+      "type": "text"
+    },
+    "RefusingIDVModal": {
+      "type": "text"
+    },
+    "PopUpNotWorkingModal": {
+      "type": "text"
+    },
+    "RefusingConsentToProcessModal": {
+      "type": "text"
+    },
+    "PreQualificationModal": {
+      "type": "text"
+    },
+    "ComplianceFAQModal": {
+      "type": "text"
+    },
+    "DeclineCreditChecksModal": {
+      "type": "text"
+    },
+    "BankingDetailsFAQModal": {
+      "type": "text"
+    },
+    "BankStatementsFAQModal": {
+      "type": "text"
+    },
+    "PersalNumbersModal": {
+      "type": "text"
+    },
+    "ContractWorkersModal": {
+      "type": "text"
+    },
+    "CreditLifeFAQModal": {
+      "type": "text"
+    },
+    "CreditLifeCostModal": {
+      "type": "text"
+    }
+  }
+}

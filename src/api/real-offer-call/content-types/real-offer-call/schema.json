@@ -1,0 +1,112 @@
+{
+  "kind": "collectionType",
+  "collectionName": "real_offer_calls",
+  "info": {
+    "singularName": "real-offer-call",
+    "pluralName": "real-offer-calls",
+    "displayName": "Real-offer-call",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Introduction": {
+      "type": "richtext"
+    },
+    "DigitalMigrationConversation": {
+      "type": "richtext"
+    },
+    "PossibleObjections": {
+      "type": "richtext"
+    },
+    "CustomerAuthentication": {
+      "type": "richtext"
+    },
+    "IdAndVerification": {
+      "type": "text"
+    },
+    "Entersekt": {
+      "type": "text"
+    },
+    "RegulatoryStatement": {
+      "type": "richtext"
+    },
+    "ConsentToProcessPersonalInformation": {
+      "type": "text"
+    },
+    "OffersDiscussion": {
+      "type": "text"
+    },
+    "NCRShortTermLoan": {
+      "type": "text"
+    },
+    "Overdraft": {
+      "type": "text"
+    },
+    "TechCredit": {
+      "type": "richtext"
+    },
+    "ConfirmDeliveryAddress": {
+      "type": "text"
+    },
+    "CreditApplicationDisbursement": {
+      "type": "text"
+    },
+    "MyWorldDisbursementConversation": {
+      "type": "richtext"
+    },
+    "Rewards": {
+      "type": "richtext"
+    },
+    "SGCaptureContactDetails": {
+      "type": "text"
+    },
+    "SGCapturePhysicalAddressInformation": {
+      "type": "text"
+    },
+    "SGCapturePEPInformation": {
+      "type": "text"
+    },
+    "InfoValidationEntersekt": {
+      "type": "text"
+    },
+    "DebiCheckAuthentication": {
+      "type": "text"
+    },
+    "DebiCheckAuthenticationLoan": {
+      "type": "text"
+    },
+    "DebiCheckAuthenticationCreditCard": {
+      "type": "richtext"
+    },
+    "ChecklistCostOfCredit": {
+      "type": "text"
+    },
+    "CreditCardDisclaimer": {
+      "type": "richtext"
+    },
+    "PaymentArrangement": {
+      "type": "text"
+    },
+    "IncomeExpenseConfirmation": {
+      "type": "richtext"
+    },
+    "CardCollectionOrDelivery": {
+      "type": "richtext"
+    },
+    "TermsAndConditions": {
+      "type": "richtext"
+    },
+    "Conclusion": {
+      "type": "text"
+    },
+    "FraudAlert": {
+      "type": "text"
+    },
+    "DigitalMigration": {
+      "type": "text"
+    }
+  }
+}

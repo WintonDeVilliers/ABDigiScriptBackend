@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "notice_boards",
+  "info": {
+    "singularName": "notice-board",
+    "pluralName": "notice-boards",
+    "displayName": "NoticeBoard",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ChangeTopic1": {
+      "type": "string"
+    },
+    "ChangeTopicContent1": {
+      "type": "richtext"
+    },
+    "ChangeTopic2": {
+      "type": "string"
+    },
+    "ChangeTopicContent2": {
+      "type": "richtext"
+    },
+    "ChangeTopic3": {
+      "type": "string"
+    },
+    "ChangeTopicContent3": {
+      "type": "richtext"
+    },
+    "ChangeTopic4": {
+      "type": "string"
+    },
+    "ChangeTopicContent4": {
+      "type": "richtext"
+    }
+  }
+}

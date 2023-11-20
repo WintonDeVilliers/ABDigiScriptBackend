@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "product_catalogues",
+  "info": {
+    "singularName": "product-catalogue",
+    "pluralName": "product-catalogues",
+    "displayName": "Product-Catalogue",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "PersonalLoans": {
+      "type": "richtext"
+    },
+    "ConsolidationLoans": {
+      "type": "richtext"
+    },
+    "SRALoans": {
+      "type": "richtext"
+    },
+    "NCRLoans": {
+      "type": "richtext"
+    },
+    "TwelvePercentLoans": {
+      "type": "richtext"
+    },
+    "TechCredit": {
+      "type": "richtext"
+    },
+    "CreditCard": {
+      "type": "richtext"
+    },
+    "Overdraft": {
+      "type": "richtext"
+    },
+    "FuneralCover": {
+      "type": "richtext"
+    },
+    "CreditCardFees": {
+      "type": "richtext"
+    }
+  }
+}
