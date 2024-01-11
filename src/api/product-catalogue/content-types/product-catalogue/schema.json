@@ -41,6 +41,9 @@
     },
     "CreditCardFees": {
       "type": "richtext"
+    },
+    "CreditCardFeesMore": {
+      "type": "richtext"
     }
   }
 }

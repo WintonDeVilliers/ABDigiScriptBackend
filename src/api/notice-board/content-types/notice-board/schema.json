@@ -12,29 +12,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "ChangeTopic1": {
-      "type": "string"
-    },
-    "ChangeTopicContent1": {
-      "type": "richtext"
-    },
-    "ChangeTopic2": {
-      "type": "string"
-    },
-    "ChangeTopicContent2": {
-      "type": "richtext"
-    },
-    "ChangeTopic3": {
-      "type": "string"
-    },
-    "ChangeTopicContent3": {
-      "type": "richtext"
-    },
-    "ChangeTopic4": {
-      "type": "string"
-    },
-    "ChangeTopicContent4": {
-      "type": "richtext"
+    "NoticeBoardJSON": {
+      "type": "json"
     }
   }
 }

@@ -154,6 +154,36 @@
     },
     "Survey": {
       "type": "text"
+    },
+    "REFUSINGPROCESSING": {
+      "type": "text"
+    },
+    "POPUPNOTRECEIVED": {
+      "type": "text"
+    },
+    "REFUSINGINFOSHARING": {
+      "type": "text"
+    },
+    "PREQUALNOTMET": {
+      "type": "text"
+    },
+    "COMPLIANCEFAQS": {
+      "type": "text"
+    },
+    "CUSTOMERDECLINECREDITCHECK": {
+      "type": "text"
+    },
+    "BANKINGDETAILSFAQS": {
+      "type": "text"
+    },
+    "PERSALNUMBERS": {
+      "type": "text"
+    },
+    "CONTRACTWORKERS": {
+      "type": "text"
+    },
+    "CREDITLIFEFAQS": {
+      "type": "text"
     }
   }
 }
