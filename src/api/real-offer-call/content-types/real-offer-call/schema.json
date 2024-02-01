@@ -107,6 +107,21 @@
     },
     "DigitalMigration": {
       "type": "text"
+    },
+    "LevelUpTiers": {
+      "type": "richtext"
+    },
+    "MyWorldBenefits": {
+      "type": "richtext"
+    },
+    "RewardsBenefits": {
+      "type": "richtext"
+    },
+    "NCRBenefits": {
+      "type": "richtext"
+    },
+    "TechCreditBenefits": {
+      "type": "richtext"
     }
   }
 }

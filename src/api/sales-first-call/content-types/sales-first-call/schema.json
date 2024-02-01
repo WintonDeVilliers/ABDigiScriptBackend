@@ -69,20 +69,8 @@
     "hook": {
       "type": "string"
     },
-    "NotInterestedReply": {
-      "type": "text"
-    },
-    "AlreadyHaveALoanReply": {
-      "type": "text"
-    },
     "CommonObjections": {
       "type": "string"
-    },
-    "NotInterested": {
-      "type": "text"
-    },
-    "AlreadyHaveALoan": {
-      "type": "text"
     },
     "FeaturesAndBenefits": {
       "type": "richtext"
@@ -184,6 +172,12 @@
     },
     "CREDITLIFEFAQS": {
       "type": "text"
+    },
+    "AlreadyHaveALoan": {
+      "type": "richtext"
+    },
+    "NotInterested": {
+      "type": "richtext"
     }
   }
 }

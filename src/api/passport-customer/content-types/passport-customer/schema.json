@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "passport_customers",
+  "info": {
+    "singularName": "passport-customer",
+    "pluralName": "passport-customers",
+    "displayName": "PassportCustomer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "PassportCustomer": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
